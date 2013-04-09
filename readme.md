@@ -1,14 +1,9 @@
 Trcalc
 ======
 
-Throughput rate calculator
+Throughput rate calculator  
+Version 1.0 (2012-10-15)  
+Copyleft (c) 2012 Agus Bimantoro  
 
-Version 1.0 (2012-10-15)
-
-Copyleft (c) 2012 Agus Bimantoro
-
-
-
-This tool is table conversion for throughput speed,
-
+This tool is table conversion for throughput speed,  
 and calculation of estimate time to transfer file.
